@@ -116,11 +116,11 @@
 }
 
 .top-right img{
-  width: 70%;
-  height: 120%;
-  margin: auto;
-}
+  width: 50%;
+  height: 100%;
+  margin-left: 20%;
 
+}
 .top-left p {
   width: 70%;
   height: 100%;
